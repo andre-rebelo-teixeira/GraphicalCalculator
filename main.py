@@ -41,7 +41,7 @@ def confirmString(string):
         return False
 
         
-
+#comentario
 
 def main():
     string = "((4+2)+3)"
